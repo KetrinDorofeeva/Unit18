@@ -1,0 +1,16 @@
+C:\Users\Екатерина\Desktop\Unit18\Formula1\obj\Debug\net5.0\Formula.csproj.AssemblyReference.cache
+C:\Users\Екатерина\Desktop\Unit18\Formula1\obj\Debug\net5.0\Formula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Екатерина\Desktop\Unit18\Formula1\obj\Debug\net5.0\Formula.AssemblyInfoInputs.cache
+C:\Users\Екатерина\Desktop\Unit18\Formula1\obj\Debug\net5.0\Formula.AssemblyInfo.cs
+C:\Users\Екатерина\Desktop\Unit18\Formula1\obj\Debug\net5.0\Formula.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\Desktop\Unit18\Formula1\bin\Debug\net5.0\Formula.exe
+C:\Users\Екатерина\Desktop\Unit18\Formula1\bin\Debug\net5.0\Formula.deps.json
+C:\Users\Екатерина\Desktop\Unit18\Formula1\bin\Debug\net5.0\Formula.runtimeconfig.json
+C:\Users\Екатерина\Desktop\Unit18\Formula1\bin\Debug\net5.0\Formula.runtimeconfig.dev.json
+C:\Users\Екатерина\Desktop\Unit18\Formula1\bin\Debug\net5.0\Formula.dll
+C:\Users\Екатерина\Desktop\Unit18\Formula1\bin\Debug\net5.0\ref\Formula.dll
+C:\Users\Екатерина\Desktop\Unit18\Formula1\bin\Debug\net5.0\Formula.pdb
+C:\Users\Екатерина\Desktop\Unit18\Formula1\obj\Debug\net5.0\Formula.dll
+C:\Users\Екатерина\Desktop\Unit18\Formula1\obj\Debug\net5.0\ref\Formula.dll
+C:\Users\Екатерина\Desktop\Unit18\Formula1\obj\Debug\net5.0\Formula.pdb
+C:\Users\Екатерина\Desktop\Unit18\Formula1\obj\Debug\net5.0\Formula.genruntimeconfig.cache
